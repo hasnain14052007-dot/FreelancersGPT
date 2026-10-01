@@ -1,0 +1,26 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Streamlit secrets (CRITICAL FOR SECURITY)
+.streamlit/secrets.toml
+
+# Python runtime files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

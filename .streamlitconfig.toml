@@ -1,0 +1,10 @@
+[theme]
+primaryColor = "#6366F1"
+backgroundColor = "#F8FAFC"
+secondaryBackgroundColor = "#F1F5F9"
+textColor = "#0F172A"
+font = "sans serif"
+
+[layout]
+# Use wide layout by default for the dashboard
+width = "wide"
